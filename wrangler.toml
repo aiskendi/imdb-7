@@ -1,0 +1,4 @@
+name = "imdb-7"
+main = "src/index.js"
+compatibility_date = "2023-07-01"
+node_compat = true
